@@ -1,0 +1,80 @@
+.parent{
+    background-color: #CAF8FF;
+    height: 100vh;
+    width: 100vw;
+}
+
+.yourpost{
+margin-top: 50px;
+margin-left: 50px;
+height: 44px;
+/* Heading/Heading 2 */
+font-family: 'Avenir Next';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.createpost{
+margin-right: 50px;
+margin-top: 50px;
+ display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 16px;
+gap: 8px;
+color: aliceblue;
+
+height: 40px;
+
+/* Interactive/interactiveOneHover */
+background: #AF273E;
+border-radius: 8px;
+}
+
+.middle{
+margin-top: 250px;
+}
+.p-tag-1{
+    height: 22px;
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    
+    /* identical to box height */
+   
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;  
+}
+.p-tag-2{
+   
+
+height: 19px;
+left: 540px;
+top: 565px;
+
+font-family: 'Avenir Next';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+}

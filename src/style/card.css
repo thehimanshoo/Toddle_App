@@ -1,0 +1,37 @@
+.card{
+position: absolute;
+width: 275px;
+height: 577px;
+left: 79px;
+top: 141px;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
+
+.heart{
+    width: 20px;
+margin-left: 0px;
+}
+
+.card-text{
+height: 240px;
+left: 5.82%;
+right: 6.55%;
+top: calc(50% - 240px/2 + 105.5px);
+/* Subtitle/Subtitle 3 */
+font-family: 'Avenir Next';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+
+/* or 143% */
+
+color: #2B2B2B;
+}
+
+.card-img-top{
+height: 162px;
+
+}

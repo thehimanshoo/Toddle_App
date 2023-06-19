@@ -1,0 +1,43 @@
+.input-type {
+  box-sizing: border-box;
+  width: 100%;
+  bottom: 62.33%;
+  padding: 10px;
+  background: #ffffff;
+  border: 1px solid #dbdbdb;
+  border-radius: 4px;
+}
+
+.file-upload {
+  border: 0.5px solid #dbdbdb;
+  width: 40%;
+}
+
+.custom-file-upload {
+  color: #717171;
+}
+
+#img {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+
+#labelName {
+  color: #717171 !important;
+}
+
+.publicButton {
+  position: absolute;
+  bottom: 20px;
+  right: -10px;
+  transform: translateX(-50%);
+}
+
+.subject {
+  font-family: "Avenir Next";
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  line-height: 22px !important;
+  color: #393939 !important;
+}

@@ -1,0 +1,115 @@
+
+
+.modal-content{
+width: 458px;
+height: 400px;
+top: 130px;
+padding: auto;
+
+
+/* Surface/White/surfaceWhite */
+background: #FFFFFF;
+
+/* Border/borderSubtle */
+border: 1px solid #EBEBEB;
+/* Elevation/2B
+
+Dropdown
+*/
+box-shadow: 0px 5px 10px rgba(0, 46, 57, 0.15);
+border-radius: 8px;
+    margin-top: 0px;
+}
+
+.modal-title{
+height: 28px;
+left: 517px;
+top: 239px;
+
+/* Heading/Heading 4 */
+font-family: 'Avenir Next';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 28px;
+
+/* identical to box height, or 140% */
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.textarea{
+width: 100%;
+padding: 10px;
+box-sizing: border-box;
+background: #FFFFFF;
+border: 1px solid #DBDBDB;
+border-radius: 4px;
+}
+
+.color{
+
+height: 20px;
+margin-top: 40px;
+margin-left: 4px;
+/* Heading/Heading 4 */
+font-family: 'Avenir Next';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 28px;
+
+/* identical to box height, or 140% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.color-picker{
+box-sizing: border-box;
+border-radius: 50%;
+width: 24.05px;
+height: 24.05px;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.savechange{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 13px 16px;
+    gap: 24px;
+    height: 40px;
+    left: 305px;
+    top: 303px;
+    
+    /* Interactive/interactiveOneHover */
+    background: #AF273E;
+    border-radius: 8px;
+}
+
+.custom-color1 {
+    background-color: #A7F0F9; /* Replace #FF0000 with your desired hexadecimal color value */
+  }
+  .custom-color2 {
+    background-color: #C5C5FC; /* Replace #FF0000 with your desired hexadecimal color value */
+  }
+  .custom-color3 {
+    background-color: #FFAEC0; /* Replace #FF0000 with your desired hexadecimal color value */
+  }
+  .custom-color4 {
+    background-color: #FFCC66; /* Replace #FF0000 with your desired hexadecimal color value */
+  }
+

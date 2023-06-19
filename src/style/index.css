@@ -1,0 +1,26 @@
+#createButton{
+  width: 350px;
+}
+
+.navbar{
+  box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 12px 48px;
+gap: 893px;
+
+
+
+height: 72px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+/* Border/borderSubtle */
+border-bottom: 1px solid #EBEBEB;
+}
